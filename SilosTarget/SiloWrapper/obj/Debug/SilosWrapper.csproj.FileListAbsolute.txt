@@ -1,0 +1,13 @@
+D:\repo\Dev\SiloWrapper\bin\Debug\SilosWrapper.dll
+D:\repo\Dev\SiloWrapper\bin\Debug\SilosWrapper.pdb
+D:\repo\Dev\SiloWrapper\bin\Debug\NLog.dll
+D:\repo\Dev\SiloWrapper\bin\Debug\NLog.xml
+D:\repo\Dev\SiloWrapper\obj\Debug\SilosWrapper.csprojResolveAssemblyReference.cache
+D:\repo\Dev\SiloWrapper\obj\Debug\SilosWrapper.dll
+D:\repo\Dev\SiloWrapper\obj\Debug\SilosWrapper.pdb
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\bin\Debug\SilosWrapper.dll
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\bin\Debug\SilosWrapper.pdb
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\bin\Debug\NLog.dll
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\bin\Debug\NLog.xml
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\obj\Debug\SilosWrapper.dll
+D:\repo\nlog_silos_target\SilosTarget\SiloWrapper\obj\Debug\SilosWrapper.pdb
